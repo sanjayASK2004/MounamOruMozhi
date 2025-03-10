@@ -1,0 +1,11 @@
+Naan Mudhalvan Project:
+       How might we develop an AI-enabled system for real-time conversion of speech to 
+sign language using animated avatars, ensuring effective communication and inclusivity 
+for persons with hearing and speech impairments during government functions and public
+events? This solution should eliminate the dependency on sign language experts while
+providing accurate and accessible communication
+
+
+
+Team Members :
+      A.Sanjay Kumar,Rithesh,Niranjan,Kavinesan,Ramesh
